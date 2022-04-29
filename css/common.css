@@ -75,6 +75,19 @@ img{
   background-color: #FFF;
 }
 
+.btn.btn--primary{
+  color: #FFF;
+  background-color: #EA9926;
+  border: none;
+}
+
+.btn.btn--primary:hover{
+  background-color: #cc8823;
+}
+
+.btn.block{
+  width: 100%;
+}
 header {
   background-color: #F6F5F0;
   position: fixed;
